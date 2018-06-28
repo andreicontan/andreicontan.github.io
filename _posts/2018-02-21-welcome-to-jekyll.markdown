@@ -4,9 +4,27 @@ title:  "Conference Abstracts"
 date:   2018-02-21 14:15:46 +0100
 categories: conference, abstracts, testing
 ---
+# I AM what IAM - testing in digital transformation
+* proposed EclipseCon
+Quite a few years ago, augmented reality entered our daily lives imposing digital perspectives on reality without actually ‘touching’ it. Devices like phones, tablets, televisions and cars only enrich information and our experiences for all kinds of reasons. But lately it shows that this was just the beginning of a major transition where those devices are not merely ‘dumb’ things that provide information; they’re able to actually ‘do’ things on their own. Interacting with consumers as well as with each other is making them part of our human reality.
+
+This is a testing invitation to explore together the opportunities and hands-on experience of a test architect role in the world of IAM, deployed in a micro services environment.
+
+We will walk through the risk based approaches of the most important 3 IAM pillars that the current project is offering
+* Sharing and securing personal identity data -. Organisations in the midst of digital transformation need this information in a multitude of IT systems. Sharing and securing this data is a core functionality of IAM.
+* Access and Authorisation - Making sure only data is shared which is needed, but also making sure the right access is granted to the right people is key to IAM.
+* Provide people with the right tools to protect their privacy - As incorporated in the EU’s GDPR legislation, organisations should expose the data they have on individuals and ask for consent when necessary.
+
+Join the session to challenge through testing the ‘simple’ notions of login, registration, authentication and authorisation
+
+
+
+
+
+===================================
 # POCs - a different approach in building testing strategies
 ## Session: Talk
-
+* Madrid - ExpoQA
 ### Abstract:
 Initiatives of new testing approaches within your company are subject of many
 unknowns and most initiatives suffer fatal setbacks.
@@ -39,7 +57,7 @@ people to have a better understanding about the benefits of test automation
 Users, platforms, technologies, tools, techniques are just some of the
 coordinates that add complexity to our daily testing activities. When it comes
 to test automation we hope to have a solution to ease our testing process, but
-often we end-up having the opposite. 
+often we end-up having the opposite.
 Difficult test automation solutions and complex frameworks are often a recipe
 of destruction and
 IN my experience as test architect, the success stories on test automation
@@ -69,8 +87,9 @@ What you will have by the end of this workshop:
 # Automation 3.0 - back to the drawing board
 ## Session: 45 minutes
 
+* TestAutomationDay NL
 In the past years, the testing communities has gone through a series of trends and fashionable approaches. SOAP, Selenium, WebDriver, REST APIs are just a few of the topics that we, the testing community has focused on.
-The pyramid of testing levels didn’t help much suggesting the idea of testing layers, coverage, order or testing, etc. 
+The pyramid of testing levels didn’t help much suggesting the idea of testing layers, coverage, order or testing, etc.
 
 We’re progressing towards serverless architectures. In few years time, applications will be just like Legos. A set of micro services interconnected with few lines of code to deliver a specific business value. All of that having virtualisation in mind. Did you find a critical bug? Build container with previous image, fix problem, re-deploy and that’s it. Part of the testing as we know it will become static analysis of 3 lines of code which enable the integration between external components.
 
@@ -81,6 +100,3 @@ I meet Ops engineers looking for testing people to validate deployment scripts ,
 My talk is about proposing a change of mindset, a change of how as testers should perceive test automation. For the last year, I've done 5 workshops on test automation in which this type of mindset was addressed. "Back to the drawing board" mindset encourages testers to talk more about the design, ideas, implications, processes of test automation and moving aways from the tool-driven approach
 
 ========================
-
-
-
