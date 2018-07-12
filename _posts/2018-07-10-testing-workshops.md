@@ -34,7 +34,8 @@ What you will have by the end of this workshop:
 - quick ideas to boost your current test automation process
 - a set of references to get you started in your new strategies.
 
-===========================
+======================================
+
 
 # Getting started with REST apis
 ## Company workshop - 2 days
@@ -55,7 +56,8 @@ Agenda:
 - API Abstractions
 - Case Studies
 
-=============================
+======================================
+
 
 # Selenium WebDriver based testing from ground up
 ## Company workshop - 2 or 3 days
@@ -67,7 +69,8 @@ Agenda:
 - Page Modelling
 - WebDriver advanced concepts
 
-=============================
+======================================
+
 
 # APIs workshops - getting comfy working with most of the APIs
 ## Company workshop - 3 days
@@ -113,3 +116,5 @@ Generating code from WSDL
 SOAP UI tool
 SOAP specific testing techniques
 SOAP testing strategy
+
+======================================
